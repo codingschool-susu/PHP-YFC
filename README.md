@@ -1,7 +1,9 @@
 # PHP-YFC
 PHP: Курс молодого бойца
 
-Комплекс практических упражнений для получения навыков проектирования на языке PHP
+Чем зарядить свой компьютер? https://is42-2018.susu.ru/blog/2019/09/18/chem-zaryadit-kompjuter-dlya-osvoeniya-kursa-tehnologii-razrabotki-web-sistem/
+
+Комплекс практических упражнений для получения навыков программирования на языке PHP
 https://is42-2018.susu.ru/blog/2019/09/26/php-praktikum/
 
 Задачи от компании Digital-Agency xPage:
