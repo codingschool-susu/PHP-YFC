@@ -5,6 +5,8 @@ PHP: Курс молодого бойца
 
 Комплекс практических упражнений для получения навыков программирования на языке PHP http://chel-center.ru/php-yfc/prakticheskij-trening/
 
+Самоконтроль https://github.com/oreillymedia/Learning_PHP
+
 Осваиваем инструменты: 
 1) PHPStorm - http://chel-center.ru/php-yfc/osvaivaem-phpstorm/
 2) WebStorm - http://chel-center.ru/php-yfc/osvaivaem-webstorm/
