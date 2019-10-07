@@ -3,9 +3,7 @@ PHP: Курс молодого бойца
 
 Чем зарядить свой компьютер? http://chel-center.ru/php-yfc/chem-zaryadit-kompjuter-dlya-razrabotki-web-sistem/
 
-Комплекс практических упражнений для получения навыков программирования на языке PHP http://chel-center.ru/php-yfc/prakticheskij-trening/
-
-Самоконтроль https://github.com/oreillymedia/Learning_PHP
+Комплекс практических упражнений для получения навыков программирования на языке PHP http://chel-center.ru/php-yfc/php-prodvinutyj-praktikum/
 
 Осваиваем инструменты: 
 1) PHPStorm - http://chel-center.ru/php-yfc/osvaivaem-phpstorm/
